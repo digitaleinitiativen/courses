@@ -17,6 +17,7 @@ A more formal way of signalizing interest will be added while conducting this pr
 
 Courses:
 
+22. Using low cost wifi equipment for building rural networks **Fabian Friesenecker**
 21. Arduion for Kids **Christian Anselmi**
 20. All about sailing on the lake of Constance **Christian Anselmi**
 19. HTTP Caching for Webengineers **Thomas Schedler**
@@ -28,16 +29,16 @@ Courses:
 13. 10 Steps: Wordpress from zero to hero **Guntram**
 12. Getting into Magento **Mike**
 11. The insights of Webassembly **Fabian**
-10. The nuts and bolts of Ansible **Leiti**
+10. The nuts and bolts of Ansible **Christian Leitgeb**
 9. Building Apps with ReactNative **Daniel Rotter**
 8. On fire for ReactJS **Daniel Rotter**
 7. Eight interesting Facts about Webcomponents **Phuc Le**
-6. Getting started with Heroku **Leiti**
-5. Getting started with Docker & Virtualization **Leiti**
+6. Getting started with Continous Delivery **Christian Leitgeb**
+5. Getting started with Docker & Virtualization **Christian Leitgeb**
 4. Getting started with Meteor JS **Leiti**
 3. IoT for Rookies **Christian Anselmi**
 2. The basics of Display Grid **Phuc Le**
-1. Getting started with PHP  **Fabian**
+1. Getting started with PHP  **Fabian Allgäuer**
 
 
 ### Stage 2-6

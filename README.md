@@ -31,12 +31,12 @@ Courses:
 10. The nuts and bolts of Ansible **Leiti**
 9. Building Apps with ReactNative **Daniel Rotter**
 8. On fire for ReactJS **Daniel Rotter**
-7. Eight interesting Facts about Webcomponents **Phuc Le**
+7. Start using Webcomponents now **Phuc Le**
 6. Getting started with Heroku **Leiti**
 5. Getting started with Docker & Virtualization **Leiti**
 4. Getting started with Meteor JS **Leiti**
 3. IoT for Rookies **Christian Anselmi**
-2. The basics of Display Grid **Phuc Le**
+2. Understanding and use Display Grid (CSS) **Phuc Le**
 1. Getting started with PHP  **Fabian**
 
 

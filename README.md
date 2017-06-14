@@ -22,13 +22,13 @@ Courses:
 20. All about sailing on the lake of Constance **Christian Anselmi**
 19. HTTP Caching for Webengineers **Thomas Schedler**
 18. Battle Robots for Beginners **Johannes Moser**
-17. Crate for Kids with **Johannes**
+17. Crate for Kids with **Johannes Moser**
 16. Learning the Language you don't want to learn: Logo with **Christoph Klocker**
-15. Programming with Kids: The ultimate Scratch Course **Christian** 
-14. Getting started with Sulu.io **Thomas**
-13. 10 Steps: Wordpress from zero to hero **Guntram**
+15. Programming with Kids: The ultimate Scratch Course **Christian Anselmi**
+14. Getting started with Sulu.io **Thomas Schedler**
+13. 10 Steps: Wordpress from zero to hero **Guntram Bechtold**
 12. Getting into Magento **Mike**
-11. The insights of Webassembly **Fabian**
+11. The insights of Webassembly **Fabian Allgäuer**
 10. The nuts and bolts of Ansible **Christian Leitgeb**
 9. Building Apps with ReactNative **Daniel Rotter**
 8. On fire for ReactJS **Daniel Rotter**

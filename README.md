@@ -16,6 +16,7 @@ Signal your interest by any means (e.g commenting here, writing to the slack cha
 A more formal way of signalizing interest will be added while conducting this process.
 
 Courses:
+
 21. Arduion for Kids **Christian Anselmi**
 20. All about sailing on the lake of Constance **Christian Anselmi**
 19. HTTP Caching for Webengineers **Thomas Schedler**

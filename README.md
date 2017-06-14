@@ -17,6 +17,7 @@ A more formal way of signalizing interest will be added while conducting this pr
 
 Courses:
 
+22. Using low cost wifi equipment for building rural networks **Fabian Friesenecker**
 21. Arduion for Kids **Christian Anselmi**
 20. All about sailing on the lake of Constance **Christian Anselmi**
 19. HTTP Caching for Webengineers **Thomas Schedler**
@@ -32,7 +33,7 @@ Courses:
 9. Building Apps with ReactNative **Daniel Rotter**
 8. On fire for ReactJS **Daniel Rotter**
 7. Start using Webcomponents now **Phuc Le**
-6. Getting started with Heroku **Leiti**
+6. Getting started with Continous Delivery **Leiti**
 5. Getting started with Docker & Virtualization **Leiti**
 4. Getting started with Meteor JS **Leiti**
 3. IoT for Rookies **Christian Anselmi**

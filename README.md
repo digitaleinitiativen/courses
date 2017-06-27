@@ -17,6 +17,13 @@ A more formal way of signalizing interest will be added while conducting this pr
 
 Courses:
 
+#### 30 Getting started with Elasticsearch 5 **Johannes Wachter**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
 #### 29 Realtime 1 Million particle simulation on the GPU  **Patrick Fürst**
  - Format: 1 Day
  - Content: Learn how to use GPU based simulation techniques. How to use shaders for calculation and how to set up a simulation pipeline.
@@ -157,7 +164,7 @@ Courses:
  - Preparations:
  - Price:
 
-#### 09 Building Apps with ReactNative **Daniel Rotter**
+#### 09 Building Apps with ReactNative **Speaker Wanted**
  - Format:
  - Content:
  - Participants: 

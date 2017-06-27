@@ -17,12 +17,47 @@ A more formal way of signalizing interest will be added while conducting this pr
 
 Courses:
 
-#### 25 Getting started with Elasticsearch 5 **Johannes Wachter**
+#### 30 Getting started with Elasticsearch 5 **Johannes Wachter**
  - Format:
  - Content:
  - Participants: 
  - Preparations:
  - Price:
+
+#### 29 Realtime 1 Million particle simulation on the GPU  **Patrick Fürst**
+ - Format: 1 Day
+ - Content: Learn how to use GPU based simulation techniques. How to use shaders for calculation and how to set up a simulation pipeline.
+ - Participants: 5-10
+ - Preparations: Knowledge of GPU programming and understanding of computer graphics. Laptop with a discrete GPU
+ - Price: 20€
+
+#### 28 Introduction to WebGL and GPU rendering **Patrick Fürst**
+ - Format: 1 Day
+ - Content: Learn the basics of realtime rendering and create a small 3D project with [ThreeJS](https://threejs.org/)
+ - Participants: 5-10
+ - Preparations: Basic programming skills. Bring your own laptop. Needs to be [WebGL](https://get.webgl.org/) capable
+ - Price: Free
+
+#### 27 Lowpoly landscaping for Virtual worlds in Blender **Jim van Hazendonk**
+ - Format: 2x3 hours
+ - Content: Learn how to create environments for VR
+ - Participants: 8-12
+ - Preparations: bring your own laptop (need to know basics of blender)
+ - Price: €35
+
+#### 26 InkScape and Blender for 3D printing **Jim van Hazendonk**
+ - Format: 2x3 hours
+ - Content: Learn how to create 3D printable objects using Blender and Inkscape 
+ - Participants: 8-12
+ - Preparations: bring your own laptop (need to know basics of blender and inkscape)
+ - Price: €35
+
+#### 25 Getting started with InkScape **Jim van Hazendonk**
+ - Format: 4 hours
+ - Content: Learn how to create vector graphics 
+ - Participants: 8-12
+ - Preparations: bring your own laptop
+ - Price: €20
 
 #### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
  - Format: 2h - more specific to interests
@@ -32,7 +67,11 @@ Courses:
  - Price: 10€
 
 #### 23 Getting started with Blender3D **Jim van Hazendonk**
-
+ - Format: 4 hours
+ - Content: How does Blender work and start creating 3D models
+ - Participants: 8-12
+ - Preparations: Bring your own laptop
+ - Price: €20
 
 #### 22 Using low cost wifi equipment for building rural networks **Fabian Friesenecker**
  - Format:
@@ -41,7 +80,7 @@ Courses:
  - Preparations:
  - Price:
 
-#### 21 Arduion for Kids **Christian Anselmi**
+#### 21 Arduino for Kids **Christian Anselmi**
  - Format:
  - Content:
  - Participants: 
@@ -76,12 +115,12 @@ Courses:
  - Preparations:
  - Price:
  
-#### 16 Getting started with Sketchup and Rhino3D **Guntram Bechtold**
- - Format: 2 x 3 hrs
- - Content: Get familiar with the Concept
- - Participants: Up to 15 Participants. Any Age. You got to be an Internet User, basic knowledge.
- - Preparations: You need a Laptop and Sketchup and Rhino installed, at least as as a trial version
- - Price: free
+#### 16 Learning the Language you don't want to learn: Logo with **Christoph Klocker**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
  
 #### 15 Programming with Kids: The ultimate Scratch Course **Christian Anselmi**
  - Format:
@@ -125,7 +164,7 @@ Courses:
  - Preparations:
  - Price:
 
-#### 09 Building Apps with ReactNative **Daniel Rotter**
+#### 09 Building Apps with ReactNative **Speaker Wanted**
  - Format:
  - Content:
  - Participants: 

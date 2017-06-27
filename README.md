@@ -18,11 +18,11 @@ A more formal way of signalizing interest will be added while conducting this pr
 Courses:
 
 #### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
- - Format:
- - Content:
- - Participants: 
- - Preparations:
- - Price:
+ - Format: 2h - more specific to interests
+ - Content: What is Projection Mapping? How can you use the content and the spaces? Softwares
+ - Participants: 5 - 10
+ - Preparations: 
+ - Price: 10€
 
 #### 23 Getting started with Blender3D **Jim van Hazendonk**
 

@@ -17,6 +17,7 @@ A more formal way of signalizing interest will be added while conducting this pr
 
 Courses:
 
+24. Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
 23. Getting started with Blender3D **Jim van Hazendonk**
 22. Using low cost wifi equipment for building rural networks **Fabian Friesenecker**
 21. Arduion for Kids **Christian Anselmi**

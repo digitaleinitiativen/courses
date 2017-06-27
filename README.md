@@ -115,12 +115,12 @@ Courses:
  - Preparations:
  - Price:
  
-#### 16 Learning the Language you don't want to learn: Logo with **Christoph Klocker**
- - Format:
- - Content:
- - Participants: 
- - Preparations:
- - Price:
+#### 16 Getting started with Sketchup and Rhino3D **Guntram Bechtold**
+ - Format: 2 x 3 hrs
+ - Content: Get familiar with the Concept
+ - Participants: Up to 15 Participants. Any Age. You got to be an Internet User, basic knowledge.
+ - Preparations: You need a Laptop and Sketchup and Rhino installed, at least as as a trial version
+ - Price: free
  
 #### 15 Programming with Kids: The ultimate Scratch Course **Christian Anselmi**
  - Format:

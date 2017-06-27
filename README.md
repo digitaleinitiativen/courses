@@ -22,7 +22,7 @@ Courses:
  - Content: Learn how to use GPU based simulation techniques. How to use shaders for calculation and how to set up a simulation pipeline.
  - Participants: 5-10
  - Preparations: Knowledge of GPU programming and understanding of computer graphics. Laptop with a discrete GPU
- - Price: Free
+ - Price: 20€
 
 #### 28 Introduction to WebGL and GPU rendering **Patrick Fürst**
  - Format: 1 Day

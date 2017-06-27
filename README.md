@@ -17,7 +17,16 @@ A more formal way of signalizing interest will be added while conducting this pr
 
 Courses:
 
- Getting started with Blender3D **Jim van Hazendonk**
+#### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
+#### 23 Getting started with Blender3D **Jim van Hazendonk**
+
+
 #### 22 Using low cost wifi equipment for building rural networks **Fabian Friesenecker**
  - Format:
  - Content:

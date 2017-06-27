@@ -13,7 +13,7 @@ These courses have been proposed so far. Add a new course by editing this docume
 Signal your interest by any means (e.g commenting here, writing to the slack chat.).
 A more formal way of signalizing interest will be added while conducting this process.
 
-[Courses](#courses)
+[Courses](#course)
 
 
 ### Stage 2-6

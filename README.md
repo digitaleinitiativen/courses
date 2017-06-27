@@ -26,27 +26,152 @@ Courses:
  - Price:
 
 #### 21 Arduion for Kids **Christian Anselmi**
-#### 20 All about sailing on the lake of Constance **Christian Anselmi**
-#### 19 HTTP Caching for Webengineers **Thomas Schedler**
-#### 18 Battle Robots for Beginners **Johannes Moser**
-#### 17 Crate for Kids with **Johannes Moser**
-#### 16 Learning the Language you don't want to learn: Logo with **Christoph Klocker**
-#### 15 Programming with Kids: The ultimate Scratch Course **Christian Anselmi**
-#### 14 Getting started with Sulu.io **Thomas Schedler**
-#### 13 10 Steps: Wordpress from zero to hero **Guntram Bechtold**
-#### 12 Getting into Magento **Mike**
-#### 11 The insights of Webassembly **Fabian Allgäuer**
-#### 10 The nuts and bolts of Ansible **Christian Leitgeb**
-#### 09 Building Apps with ReactNative **Daniel Rotter**
-#### 08 On fire for ReactJS **Daniel Rotter**
-#### 07 Start using Webcomponents now **Phuc Le**
-#### 06 Getting started with Continous Delivery **Christian Leitgeb**
-#### 05 Getting started with Docker & Virtualization **Christian Leitgeb**
-#### 04 Getting started with Meteor JS  **Christian Leitgeb**
-#### 03 IoT for Rookies **Christian Anselmi**
-#### 02 The basics of Display Grid **Phuc Le**
-#### 01 Getting started with PHP  **Fabian Allgäuer**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
 
+#### 20 All about sailing on the lake of Constance **Christian Anselmi**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 19 HTTP Caching for Webengineers **Thomas Schedler**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 18 Battle Robots for Beginners **Johannes Moser**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 17 Crate for Kids with **Johannes Moser**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 16 Learning the Language you don't want to learn: Logo with **Christoph Klocker**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 15 Programming with Kids: The ultimate Scratch Course **Christian Anselmi**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 14 Getting started with Sulu.io **Thomas Schedler**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 13 10 Steps: Wordpress from zero to hero **Guntram Bechtold**
+ - Format: 4x3 hrs
+ - Content: Getting started with Wordpress, Installation, Usage, Online Marketing Basics
+ - Participants: Up to 15 Participants. Any Age. You got to be an Internet User, basic knowledge.
+ - Preparations: You need a Laptop
+ - Price: 80 EUR (30 days Money back guarantee)
+ 
+#### 12 Getting into Magento **Mike**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 11 The insights of Webassembly **Fabian Allgäuer**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 10 The nuts and bolts of Ansible **Christian Leitgeb**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
+#### 09 Building Apps with ReactNative **Daniel Rotter**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 08 On fire for ReactJS **Daniel Rotter**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
+#### 07 Start using Webcomponents now **Phuc Le**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
+#### 06 Getting started with Continous Delivery **Christian Leitgeb**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 05 Getting started with Docker & Virtualization **Christian Leitgeb**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 04 Getting started with Meteor JS  **Christian Leitgeb**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
+#### 03 IoT for Rookies **Christian Anselmi**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
+#### 02 The basics of Display Grid **Phuc Le**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
+#### 01 Getting started with PHP  **Fabian Allgäuer**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+ 
 
 
 ### Stage 2-6

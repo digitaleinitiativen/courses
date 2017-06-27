@@ -1,5 +1,3 @@
-
-
 # Courses
 Digitale Initiativen Courses that are held in one of the DI Locations.
 
@@ -15,7 +13,7 @@ These courses have been proposed so far. Add a new course by editing this docume
 Signal your interest by any means (e.g commenting here, writing to the slack chat.).
 A more formal way of signalizing interest will be added while conducting this process.
 
-[Courses](#Courses)
+[Courses](#courses)
 
 
 ### Stage 2-6
@@ -50,7 +48,7 @@ The Course is held in an approporate location, typically "the Muttershiff", the 
 As a follow Up to the course project should be collected and presented.
 
 
-### Course
+# Course
 
 #### 30 Getting started with Elasticsearch 5 **Johannes Wachter**
  - Format:

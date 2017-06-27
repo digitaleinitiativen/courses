@@ -16,6 +16,13 @@ Signal your interest by any means (e.g commenting here, writing to the slack cha
 A more formal way of signalizing interest will be added while conducting this process.
 
 Courses:
+#### 27 Lowpoly landscaping for Virtual worlds in Blender **Jim van Hazendonk**
+ - Format: 2x3 hours
+ - Content: Learn how to create environments for VR
+ - Participants: 8-12
+ - Preparations: bring your own laptop (need to know basics of blender)
+ - Price: €35
+
 #### 26 InkScape and Blender for 3D printing **Jim van Hazendonk**
  - Format: 2x3 hours
  - Content: Learn how to create 3D printable objects using Blender and Inkscape 

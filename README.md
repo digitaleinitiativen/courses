@@ -17,6 +17,13 @@ A more formal way of signalizing interest will be added while conducting this pr
 
 Courses:
 
+#### 25 Getting started with Elasticsearch 5 **Johannes Wachter**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
+
 #### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
  - Format: 2h - more specific to interests
  - Content: What is Projection Mapping? How can you use the content and the spaces? Softwares

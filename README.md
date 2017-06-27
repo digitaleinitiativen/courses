@@ -16,6 +16,19 @@ Signal your interest by any means (e.g commenting here, writing to the slack cha
 A more formal way of signalizing interest will be added while conducting this process.
 
 Courses:
+#### 26 InkScape and Blender for 3D printing **Jim van Hazendonk**
+ - Format: 2x3 hours
+ - Content: Learn how to create 3D printable objects using Blender and Inkscape 
+ - Participants: 8-12
+ - Preparations: bring your own laptop (need to know basics of blender and inkscape)
+ - Price: €35
+
+#### 25 Getting started with InkScape **Jim van Hazendonk**
+ - Format: 4 hours
+ - Content: Learn how to create vector graphics 
+ - Participants: 8-12
+ - Preparations: bring your own laptop
+ - Price: €20
 
 #### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
  - Format: 2h - more specific to interests
@@ -25,7 +38,11 @@ Courses:
  - Price: 10€
 
 #### 23 Getting started with Blender3D **Jim van Hazendonk**
-
+ - Format: 4 hours
+ - Content: How does Blender work and start creating 3D models
+ - Participants: 8-12
+ - Preparations: Bring your own laptop
+ - Price: €20
 
 #### 22 Using low cost wifi equipment for building rural networks **Fabian Friesenecker**
  - Format:
@@ -34,7 +51,7 @@ Courses:
  - Preparations:
  - Price:
 
-#### 21 Arduion for Kids **Christian Anselmi**
+#### 21 Arduino for Kids **Christian Anselmi**
  - Format:
  - Content:
  - Participants: 
@@ -69,12 +86,12 @@ Courses:
  - Preparations:
  - Price:
  
-#### 16 Getting started with Sketchup and Rhino3D **Guntram Bechtold**
- - Format: 2 x 3 hrs
- - Content: Get familiar with the Concept
- - Participants: Up to 15 Participants. Any Age. You got to be an Internet User, basic knowledge.
- - Preparations: You need a Laptop and Sketchup and Rhino installed, at least as as a trial version
- - Price: free
+#### 16 Learning the Language you don't want to learn: Logo with **Christoph Klocker**
+ - Format:
+ - Content:
+ - Participants: 
+ - Preparations:
+ - Price:
  
 #### 15 Programming with Kids: The ultimate Scratch Course **Christian Anselmi**
  - Format:

@@ -50,6 +50,13 @@ As a follow Up to the course project should be collected and presented.
 
 # Course
 
+#### 31 3D printing for the masses **Jim van Hazendonk**
+ - Format: 4 hours
+ - Content: What is 3D printing and how do I get started. Learn what diffent 3D printing techniques exist and how to best prepare objects for printing. From thingiverse to Thing in hand.
+ - Participants: 8-12
+ - Preparations: bring your own laptop (need basic 3D understanding)
+ - Price: €20
+
 #### 30 Getting started with Elasticsearch 5 **Johannes Wachter**
  - Format:
  - Content: Elasticsearch Introduction, Search API, Mapping, Distribution Model (Nodes, Cluster, Replication)
@@ -75,21 +82,21 @@ As a follow Up to the course project should be collected and presented.
  - Format: 2x3 hours
  - Content: Learn how to create environments for VR
  - Participants: 8-12
- - Preparations: bring your own laptop (need to know basics of blender)
- - Price: €35
+ - Preparations: bring your own laptop (need to know basics of blender )
+ - Price: €30 (€5 discount for course 23 attendees)
 
 #### 26 InkScape and Blender for 3D printing **Jim van Hazendonk**
  - Format: 2x3 hours
  - Content: Learn how to create 3D printable objects using Blender and Inkscape
  - Participants: 8-12
  - Preparations: bring your own laptop (need to know basics of blender and inkscape)
- - Price: €35
+ - Price: €30
 
 #### 25 Getting started with InkScape **Jim van Hazendonk**
  - Format: 4 hours
- - Content: Learn how to create vector graphics
+ - Content: Learn how to create vector graphics to be used for logo design or 3D printing
  - Participants: 8-12
- - Preparations: bring your own laptop
+ - Preparations: bring your own laptop (needs [Inkscape](https://inkscape.org/en/download/) installed 
  - Price: €20
 
 #### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
@@ -103,7 +110,7 @@ As a follow Up to the course project should be collected and presented.
  - Format: 4 hours
  - Content: How does Blender work and start creating 3D models
  - Participants: 8-12
- - Preparations: Bring your own laptop
+ - Preparations: Bring your own laptop (needs [Blender](https://www.blender.org/download/) installed)
  - Price: €20
 
 #### 22 Using low cost wifi equipment for building rural networks **Fabian Friesenecker**

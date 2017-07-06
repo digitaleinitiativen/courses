@@ -52,7 +52,7 @@ As a follow Up to the course project should be collected and presented.
 
 #### 32 GraphQL mit React-Apollo Client **Thomas Vogel**
  - Format: 4 hours
- - Content: How to use React-Apollo Clien
+ - Content: How to use React-Apollo Client
  - Participants: 8-12
  - Preparations: bring your own laptop with running [react-create-app](https://github.com/facebookincubator/create-react-app)
  - Price: for free, part of Agent-Conf promotion tour 

@@ -61,12 +61,12 @@ As a follow Up to the course project should be collected and presented.
  - Format: 1 Day
  - Content: Learn how to use GPU based simulation techniques. How to use shaders for calculation and how to set up a simulation pipeline.
  - Participants: 5-10
- - Preparations: Knowledge of GPU programming and understanding of computer graphics. Laptop with a discrete GPU
+ - Preparations: Basic knowledge of GPU programming and understanding of computer graphics. Laptop/Computer with a discrete GPU and support of OpenGL 4.3 or higher. We us the [Cinder](https://libcinder.org/) library as a starting point.    
  - Price: 20€
 
 #### 28 Introduction to WebGL and GPU rendering **Patrick Fürst**
  - Format: 1 Day
- - Content: Learn the basics of realtime rendering and create a small 3D project with [ThreeJS](https://threejs.org/)
+ - Content: Learn the basics of realtime rendering and computer graphics by creating a small 3D project with [ThreeJS](https://threejs.org/)
  - Participants: 5-10
  - Preparations: Basic programming skills. Bring your own laptop. Needs to be [WebGL](https://get.webgl.org/) capable
  - Price: Free

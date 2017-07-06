@@ -135,11 +135,11 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 19 HTTP Caching for Webengineers **Thomas Schedler**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 2 x 3 hours
+ - Content: HTTP Caching with Varnish - from the basics to the advanced topics like ESI, tagging and context based caching.
+ - Participants: Up to 10. Webdeveloper / DevOps
+ - Preparations: You need a Laptop
+ - Price: free
 
 #### 18 Battle Robots for Beginners **Johannes Moser**
  - Format:
@@ -170,11 +170,11 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 14 Getting started with Sulu.io **Thomas Schedler**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 2 x 3 hours
+ - Content: Getting started with Sulu.io & how to leverage the power of a Framework based CMS
+ - Participants: Up to 10. Webdeveloper with basic PHP knowledge. Symfony would be an advantage.
+ - Preparations: You need a Laptop
+ - Price: free
 
 #### 13 10 Steps: Wordpress from zero to hero **Guntram Bechtold**
  - Format: 4x3 hrs

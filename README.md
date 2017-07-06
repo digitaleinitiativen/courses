@@ -27,7 +27,7 @@ will follow during the process
 ### Stages 1: Call for Proposals (CFP)
 In the proposal State anyone can append a new course on top of this list. The topics can be both technical and non-technical.
 
-### Stage 2: Clearifying Proposals
+### Stage 2: Clarifying Proposals
 A Proposal got to have the following features:
 1) A Headline that contains a viable and understandable Summary of the courses content.
 2) A 3-4 sencence description that explains the startingpoint, requirements, scope (hours), preparations if necessary  and other relevant details

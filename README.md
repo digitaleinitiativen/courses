@@ -50,6 +50,13 @@ As a follow Up to the course project should be collected and presented.
 
 # Course
 
+#### 32 GraphQL mit React-Apollo Client **Thomas Vogel**
+ - Format: 4 hours
+ - Content: How to use React-Apollo Clien
+ - Participants: 8-12
+ - Preparations: bring your own laptop with running [react-create-app](https://github.com/facebookincubator/create-react-app)
+ - Price: for Free, part of Agent promotion tour 
+
 #### 31 3D printing for the masses **Jim van Hazendonk**
  - Format: 4 hours
  - Content: What is 3D printing and how do I get started. Learn what different 3D printing techniques exist and how to best prepare objects for printing. From thingiverse to thing in hand.

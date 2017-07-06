@@ -52,7 +52,7 @@ As a follow Up to the course project should be collected and presented.
 
 #### 31 3D printing for the masses **Jim van Hazendonk**
  - Format: 4 hours
- - Content: What is 3D printing and how do I get started. Learn what different 3D printing techniques exist and how to best prepare objects for printing. From thingiverse to Thing in hand.
+ - Content: What is 3D printing and how do I get started. Learn what different 3D printing techniques exist and how to best prepare objects for printing. From thingiverse to thing in hand.
  - Participants: 8-12
  - Preparations: bring your own laptop (need basic 3D understanding)
  - Price: €20
@@ -80,7 +80,7 @@ As a follow Up to the course project should be collected and presented.
 
 #### 27 Lowpoly landscaping for Virtual worlds in Blender **Jim van Hazendonk**
  - Format: 2x3 hours
- - Content: Learn how to create environments for VR
+ - Content: Learn how to create low poly environments for [VR](https://skfb.ly/JRwP) or [city planning](https://skfb.ly/DXGC) or [exotic racegames](https://skfb.ly/DXGC)
  - Participants: 8-12
  - Preparations: bring your own laptop (need to know basics of blender )
  - Price: €30 (€5 discount for course 23 attendees)
@@ -96,7 +96,7 @@ As a follow Up to the course project should be collected and presented.
  - Format: 4 hours
  - Content: Learn how to create vector graphics to be used for logo design or 3D printing
  - Participants: 8-12
- - Preparations: bring your own laptop (needs [Inkscape](https://inkscape.org/en/download/) installed 
+ - Preparations: bring your own laptop (needs [Inkscape](https://inkscape.org/en/download/) installed) 
  - Price: €20
 
 #### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**

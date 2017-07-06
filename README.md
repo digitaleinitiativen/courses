@@ -52,7 +52,7 @@ As a follow Up to the course project should be collected and presented.
 
 #### 31 3D printing for the masses **Jim van Hazendonk**
  - Format: 4 hours
- - Content: What is 3D printing and how do I get started. Learn what diffent 3D printing techniques exist and how to best prepare objects for printing. From thingiverse to Thing in hand.
+ - Content: What is 3D printing and how do I get started. Learn what different 3D printing techniques exist and how to best prepare objects for printing. From thingiverse to Thing in hand.
  - Participants: 8-12
  - Preparations: bring your own laptop (need basic 3D understanding)
  - Price: €20

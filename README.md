@@ -225,12 +225,12 @@ As a follow Up to the course project should be collected and presented.
  - Preparations: Should have at least basic programming knowledge, preferable in JavaScript. Bring your own Laptop.
  - Price: free
 
-#### 07 Start using Webcomponents now **Phuc Le**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+#### 07 Introduction to HTML/CSS **Phuc Le**
+ - Format: 4x4 hrs
+ - Content: Getting started with HTML/CSS
+ - Participants: Up to 5 Participants
+ - Preparations: Bring a Laptop
+ - Price: 300 EUR
 
 #### 06 Getting started with Continous Delivery **Christian Leitgeb**
  - Format:

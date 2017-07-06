@@ -205,11 +205,11 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 08 On fire for ReactJS **Daniel Rotter**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 3h
+ - Content: Basic introduction to ReactJS by building a sample application.
+ - Participants: 15
+ - Preparations: Should have at least basic programming knowledge, preferable in JavaScript. Bring your own Laptop.
+ - Price: free
 
 #### 07 Start using Webcomponents now **Phuc Le**
  - Format:

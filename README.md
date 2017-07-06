@@ -149,18 +149,18 @@ As a follow Up to the course project should be collected and presented.
  - Price: free
 
 #### 18 Battle Robots for Beginners **Johannes Moser**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 4 x 3 hours
+ - Content: I'm an absolut Beginner at building battle robots, but I want to become an expert with a small group of people.
+ - Participants: 5 to 8 Battle Robot Enthusiats (Developers, Do-It-Yourselfers, Electricians)
+ - Preparations: We will buy Arduino Stuff together.
+ - Price: The gear we will buy.
 
-#### 17 Crate for Kids with **Johannes Moser**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+#### 17 PhaserJS for Kids with **Johannes Moser**
+ - Format: 4 x 3 hours
+ - Content: We will design and code a small game together, that will run in the browser.
+ - Participants: 8 kids from 10 to 14.
+ - Preparations: A laptop is required.
+ - Price: Free
 
 #### 16 Getting started with Sketchup and Rhino3D **Guntram Bechtold**
  - Format: 2 x 3 hrs

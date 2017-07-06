@@ -52,9 +52,9 @@ As a follow Up to the course project should be collected and presented.
 
 #### 30 Getting started with Elasticsearch 5 **Johannes Wachter**
  - Format:
- - Content:
- - Participants:
- - Preparations:
+ - Content: Elasticsearch Introduction, Search API, Mapping, Distribution Model (Nodes, Cluster, Replication)
+ - Participants: 5-10
+ - Preparations: Bring your own laptop.
  - Price:
 
 #### 29 Realtime 1 Million particle simulation on the GPU  **Patrick Fürst**

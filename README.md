@@ -260,12 +260,12 @@ As a follow Up to the course project should be collected and presented.
  - Preparations:
  - Price:
 
-#### 02 The basics of Display Grid **Phuc Le**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+#### 02 Create Website Layouts easily with CSS display: grid **Phuc Le**
+ - Format: 2h
+ - Content: Introduction and workshop to CSS display grid property
+ - Participants: 8 - 12
+ - Preparations: Laptop
+ - Price: 15
 
 #### 01 Getting started with PHP  **Fabian Allgäuer**
  - Format:

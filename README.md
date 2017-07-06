@@ -55,7 +55,7 @@ As a follow Up to the course project should be collected and presented.
  - Content: How to use React-Apollo Clien
  - Participants: 8-12
  - Preparations: bring your own laptop with running [react-create-app](https://github.com/facebookincubator/create-react-app)
- - Price: for Free, part of Agent promotion tour 
+ - Price: for free, part of Agent-Conf promotion tour 
 
 #### 31 3D printing for the masses **Jim van Hazendonk**
  - Format: 4 hours

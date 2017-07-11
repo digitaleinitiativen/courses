@@ -78,7 +78,7 @@ As a follow Up to the course project should be collected and presented.
  - Preparations: Basic knowledge of GPU programming and understanding of computer graphics. Laptop/Computer with a discrete GPU and support of OpenGL 4.3 or higher. We us the [Cinder](https://libcinder.org/) library as a starting point.    
  - Price: 20€
 
-#### 28 Introduction to WebGL and GPU rendering **Patrick Fürst**
+#### 28 Introduction to WebGL and GPU rendering with Three.js **Patrick Fürst**
  - Format: 1 Day
  - Content: Learn the basics of realtime rendering and computer graphics by creating a small 3D project with [ThreeJS](https://threejs.org/)
  - Participants: 5-10

@@ -205,10 +205,10 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 10 The nuts and bolts of Ansible **Christian Leitgeb**
- - Format:
- - Content:
- - Participants:
- - Preparations:
+ - Format: 4h
+ - Content: Introduction to Systems Managment in general (theoretical) and basics of Ansible.
+ - Participants: 5-15
+ - Preparations: some Linux and CLI Knowledge is a good preparation.
  - Price:
 
 #### 09 Building Apps with ReactNative **Speaker Wanted**
@@ -233,22 +233,22 @@ As a follow Up to the course project should be collected and presented.
  - Price: 300 EUR
 
 #### 06 Getting started with Continous Delivery **Christian Leitgeb**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 4h
+ - Content: Continous Delivery vs Continous Integration, Introduction to different Products (Cloud: Travis CI, Bitbucket Pipelines, Heroku - OnPremise: Microsoft TFS, Atlassian Bamboo, Jenkins). Audience can decide which tool will be shown during course.
+ - Participants: 5-15
+ - Preparations: Knowledge of at least 1 programming language
+ - Price: free
 
 #### 05 Getting started with Docker & Virtualization **Christian Leitgeb**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 4h
+ - Content: Introduction to different technogies of Virtualization and how they are used, focus on trending topic Docker and topics interesting for developers.
+ - Participants: 5-15
+ - Preparations: interest in this topic
+ - Price: free
 
 #### 04 Getting started with Meteor JS  **Christian Leitgeb**
  - Format:
- - Content:
+ - Content: 
  - Participants:
  - Preparations:
  - Price:

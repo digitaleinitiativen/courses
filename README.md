@@ -50,6 +50,14 @@ As a follow Up to the course project should be collected and presented.
 
 # Course
 
+#### 33 HelloRuby Computer Thinking for Kids
+- Format: short workshops 2 x 45 min with break
+- Content: games/lessons from HelloRuby http://www.helloruby.com/
+- Participants: 5 kids per workshop, 5-7- y.o.
+- Preparation: bring the kids
+- Start: September 2017
+- At least first 3 for free (testing phase)
+
 #### 32 GraphQL mit React-Apollo Client **Thomas Vogel**
  - Format: 4 hours
  - Content: How to use React-Apollo Client
@@ -273,3 +281,4 @@ As a follow Up to the course project should be collected and presented.
  - Participants:
  - Preparations:
  - Price:
+#### 

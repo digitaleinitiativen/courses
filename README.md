@@ -106,11 +106,11 @@ As a follow Up to the course project should be collected and presented.
  - Preparations: bring your own laptop (needs [Inkscape](https://inkscape.org/en/download/) installed) 
  - Price: €20
 
-#### 24 Visuals & Projection Mapping in a Live Environment **Raphael Kuster**
+#### 24 Visuals & Projection Mapping in a Live or Installation Environment **Raphael Kuster**
  - Format: 2h - more specific to interests
  - Content: What is Projection Mapping? How can you use the content and the spaces? Softwares
  - Participants: 5 - 10
- - Preparations:
+ - Preparations: none - just a theoretical a overview
  - Price: 10€
 
 #### 23 Getting started with Blender3D **Jim van Hazendonk**

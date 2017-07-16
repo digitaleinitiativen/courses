@@ -50,6 +50,19 @@ As a follow Up to the course project should be collected and presented.
 
 # Course
 
+#### 34 Electronics basiscs course **Elias Voegel**
+- Format: workshop with 5 x 2h
+- Content:
+  - basics of electronics (componenents, symbols, calculation,...)
+  - choose componente, using datasheets and standard curcuits
+  - designing own circuits
+  - layouting PCBs using OpenSource software KiCad
+  - simulate circuits using LTspice (freeware)
+  - measurements (using multimeter, oscilliscope, power supply,...)
+- Participants: between 5 and 20
+- Preparations: bring laptop with KiCad (http://kicad-pcb.org/download/) and LTspice (http://www.linear.com/designtools/software/ only for windows and MAC) installed
+- Price: 30€ (including components for experiments)
+
 #### 33 HelloRuby Computer Thinking for Kids
 - Format: short workshops 2 x 45 min with break
 - Content: games/lessons from HelloRuby http://www.helloruby.com/

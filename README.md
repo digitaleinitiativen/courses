@@ -136,18 +136,18 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 21 Arduino for Kids **Christian Anselmi**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 4 x 2h
+ - Content: learn how to code an Arduino, make fancy gadgets with the Arduino starter kit
+ - Participants: Kids from 8-12, not more than 8
+ - Preparations: Bring your own laptop, check the website www.arduino.cc
+ - Price: 20,- + Arduino Starter Kit (approx. 70,-)
 
 #### 20 All about sailing on the lake of Constance **Christian Anselmi**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 1 x 2h theory in sailing, one afternoon at lake constance with practical testing (to be clearified)
+ - Content: sailing for dummies, learn the basics
+ - Participants: from 16+
+ - Preparations: learn the sailing basics
+ - Price: 40,- + costs for the boat renting
 
 #### 19 HTTP Caching for Webengineers **Thomas Schedler**
  - Format: 2 x 3 hours
@@ -262,18 +262,18 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 03 IoT for Rookies **Christian Anselmi**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 1 x 3h 
+ - Content: get all the basics in 32h our, we are flying over the landscape of IoT tecnologies
+ - Participants: 16+
+ - Preparations: you will receive the course presentation upfront
+ - Price: 30,- 
 
 #### 02 Create Website Layouts easily with CSS display: grid **Phuc Le**
  - Format: 2h
  - Content: Introduction and workshop to CSS display grid property
  - Participants: 8 - 12
  - Preparations: Laptop
- - Price: 15
+ - Price: 15,-
 
 #### 01 Getting started with PHP  **Fabian Allgäuer**
  - Format:

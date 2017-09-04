@@ -149,18 +149,18 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 18 Arduino for Kids **Christian Anselmi**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+- Format: 4 x 2h
+- Content: learn how to code an Arduino, make fancy gadgets with the Arduino starter kit
+- Participants: Kids from 8-12, not more than 8
+- Preparations: Bring your own laptop, check the website www.arduino.cc
+- Price: 40,- + Arduino Starter Kit (approx. 70,-)
 
 #### 17 All about sailing on the lake of Constance **Christian Anselmi**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+- Format: 1 x 2h theory in sailing, one afternoon at lake constance with practical testing (to be clearified)
+- Content: sailing for dummies, learn the basics
+- Participants: from 16+
+- Preparations: learn the sailing basics
+- Price: 20,- + costs for the boat renting
 
 #### 16 HTTP Caching for Webengineers **Thomas Schedler**
  - Format: 2 x 3 hours
@@ -189,14 +189,14 @@ As a follow Up to the course project should be collected and presented.
  - Participants: Up to 15 Participants. Any Age. You got to be an Internet User, basic knowledge.
  - Preparations: You need a Laptop and Sketchup and Rhino installed, at least as as a trial version
  - Price: free
-
+ 
 #### 12 Programming with Kids: The ultimate Scratch Course **Christian Anselmi**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
-
+ - Format: 2 x 2h
+ - Content: Scratch is the simpliest way into the world of coding. We will design and code a game
+ - Participants: 5-8 Kids from 7 to 12
+ - Preparations: A Laptop is required
+ - Price: free
+ 
 #### 11 Getting started with Sulu.io **Thomas Schedler**
  - Format: 2 x 3 hours
  - Content: Getting started with Sulu.io & how to leverage the power of a Framework based CMS
@@ -261,15 +261,16 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 02 IoT for Rookies **Christian Anselmi**
- - Format:
- - Content:
- - Participants:
- - Preparations:
- - Price:
+ - Format: 2 x 1h
+ - Content: Introduction into IoT, getting an update on technologies, protocols, solutions, ...
+ - Participants: 5-10
+ - Preparations: -
+ - Price: 10
 
 #### 01 Create Website Layouts easily with CSS display: grid **Phuc Le**
  - Format: 2h
  - Content: Introduction and workshop to CSS display grid property
  - Participants: 8 - 12
  - Preparations: Laptop
- - Price: 15
+ - Price: 15,-
+

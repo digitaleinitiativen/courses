@@ -149,8 +149,8 @@ As a follow Up to the course project should be collected and presented.
  - Price:
 
 #### 18 Arduino for Kids **Christian Anselmi**
- - Format:
- - Content:
+ - Format: 4x1 hour
+ - Content: Quickstart Arduino for Kids
  - Participants:
  - Preparations:
  - Price:

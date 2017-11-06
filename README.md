@@ -1,4 +1,7 @@
 # Courses
+
+**This repository was replaced by a online platform https://kurse.digitaleinitiativen.at/ and the content will not be updated in the future**
+
 Digitale Initiativen Courses that are held in one of the DI Locations.
 
 With the intention of fostering the knowledge of its members, DI is asking regularly to propose, write and participate in Courses.
